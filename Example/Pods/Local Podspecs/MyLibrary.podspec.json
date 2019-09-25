@@ -22,9 +22,6 @@
   "resource_bundles": {
     "MyLibrary": [
       "MyLibrary/Assets/Image.xcassets"
-    ],
-    "MyLibrary2": [
-      "MyLibrary/Assets/OtherImage.xcassets"
     ]
   }
 }
