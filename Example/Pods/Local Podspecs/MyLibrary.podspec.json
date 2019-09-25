@@ -1,0 +1,30 @@
+{
+  "name": "MyLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of MyLibrary.",
+  "description": "我是描述",
+  "homepage": "https://github.com/liulichao/MyLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liulichao": "liulichao2014@xiaochuankeji.cn"
+  },
+  "source": {
+    "git": "https://github.com/liulichao/MyLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MyLibrary/Classes/**/*",
+  "resource_bundles": {
+    "MyLibrary": [
+      "MyLibrary/Assets/Image.xcassets"
+    ],
+    "MyLibrary2": [
+      "MyLibrary/Assets/OtherImage.xcassets"
+    ]
+  }
+}
